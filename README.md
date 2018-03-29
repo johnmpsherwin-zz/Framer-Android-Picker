@@ -1,4 +1,3 @@
-# Framer Android Picker
 ![](header-image.png)
 
 ## Installation
@@ -51,7 +50,7 @@ This will animate the first drum to its 3rd row.
 
 There's also a number of custom options available to let you style and set up the picker for your needs:
 
-| Property | Value | Type
+| Property | Default Value | Type
 | ------------- | ------------- | ------------- |
 | width | Screen.width | Number |
 | backgroundColor | "#FFF" | String |
